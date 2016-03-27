@@ -2,6 +2,8 @@ react 使用
 ==================
 [参考该项目](https://github.com/zhangmengxue/React-Learning)
 
+![img](https://github.com/wumingyu12/react_materialUiDemo/blob/master/README%E7%94%A8%E5%88%B0%E7%9A%84%E6%88%AA%E5%9B%BE/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+
 概括
 ----
 1. 使用了material-ui
